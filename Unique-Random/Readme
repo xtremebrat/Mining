@@ -1,0 +1,7 @@
+This is a small helper program that can be used to generate random numbers within a certain boundary without repeats.
+
+Sample I/O:
+
+Enter The Maximum Number :
+20
+[9, 14, 10, 11, 19, 7, 15, 20, 18, 6, 8, 2, 17, 13, 4, 16, 1, 12, 3, 5]
